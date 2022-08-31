@@ -1,0 +1,1525 @@
+hotel_id,city,country,stars,hotel_rating
+3202221,Rio de Janeiro,Brazil,0,\N
+3826522,Hanoi,Vietnam,0,88.8
+5433480,Rio de Janeiro,Brazil,0,81.66
+6100572,Miami,USA,4,84.93
+41209,Stockholm,Sweden,4,81.93
+102122,New York,USA,2,59.86
+1723421,Hanoi,Vietnam,0,89.57
+2453534,Hanoi,Vietnam,4,84.29
+2706792,New York,USA,0,\N
+5479644,Los Angeles,USA,0,78.37
+58450,New York,USA,3,77.09
+100948,Stockholm,Sweden,3,82.55
+109337,Rio de Janeiro,Brazil,4,82.95
+897355,Hanoi,Vietnam,2,70.06
+1052486,Rio de Janeiro,Brazil,0,83.37
+2789692,New York,USA,0,85.84
+890769,Rio de Janeiro,Brazil,4,81.65
+5066646,unknown,unknown,2,60.57
+5737270,Rio de Janeiro,Brazil,3,81.7
+41159,unknown,unknown,3,81.64
+104706,unknown,unknown,5,91.39
+1269936,New York,USA,3,82.29
+1770181,Rio de Janeiro,Brazil,3,79.0
+6783290,Los Angeles,USA,0,85.99
+9534454,Stockholm,USA,0,92.7
+8695,New York,USA,2,78.1
+102111,New York,USA,3,78.82
+104949,Rio de Janeiro,Brazil,4,71.5
+358141,Los Angeles,USA,2,59.59
+478691,Rio de Janeiro,Brazil,0,75.51
+929427,Rio de Janeiro,Brazil,4,78.53
+951687,Rio de Janeiro,Brazil,5,89.12
+1258234,New York,USA,3,60.7
+1372901,New York,USA,4,82.41
+3115152,Stockholm,Sweden,4,89.57
+7923,Los Angeles,USA,3,75.96
+1055330,Rio de Janeiro,Brazil,4,84.94
+7168144,unknown,unknown,0,80.33
+41383,Stockholm,Sweden,4,84.91
+955675,Miami,USA,2,50.23
+5704114,unknown,unknown,0,93.62
+1275326,Stockholm,Sweden,3,72.58
+1768367,New York,USA,3,67.06
+8844,unknown,unknown,3,76.75
+67235,Miami,USA,3,84.42
+2034003,Hanoi,Vietnam,1,87.63
+2239734,New York,USA,3,67.79
+3971048,Los Angeles,USA,0,62.24
+5715268,Los Angeles,USA,0,75.39
+105014,Rio de Janeiro,Brazil,4,83.2
+149586,New York,USA,1,56.45
+3191742,Los Angeles,USA,0,\N
+5611752,New York,USA,4,83.41
+919457,Rio de Janeiro,Brazil,0,80.06
+5594652,unknown,unknown,5,78.79
+476006,Hanoi,Vietnam,3,83.15
+5849680,Rio de Janeiro,Brazil,3,78.56
+8809,New York,USA,3,74.43
+5028116,Rio de Janeiro,Brazil,4,84.49
+6081656,New York,USA,3,89.24
+63936,New York,USA,2,71.08
+5472684,Rio de Janeiro,Brazil,0,\N
+8705,New York,USA,4,88.2
+10526498,New York,USA,5,87.45
+65016,New York,USA,2,78.74
+67433,New York,USA,5,95.04
+8200,Miami,USA,4,82.2
+41190,Stockholm,Sweden,5,83.71
+1111425,Stockholm,Sweden,2,77.28
+3155086,Hanoi,Vietnam,3,86.71
+3939734,New York,USA,4,88.75
+11359630,Los Angeles,USA,0,\N
+843141,Rio de Janeiro,Brazil,4,80.21
+1715941,Hanoi,Vietnam,4,74.52
+8711,New York,USA,4,83.31
+100945,Stockholm,Sweden,4,80.58
+109342,Rio de Janeiro,Brazil,4,84.41
+130491,New York,USA,0,75.75
+1922377,Hanoi,Vietnam,3,79.38
+3988522,unknown,unknown,0,66.78
+8833,New York,USA,3,79.83
+1797331,New York,USA,3,83.15
+67226,Miami,USA,3,72.61
+95143,Stockholm,Sweden,4,75.37
+1354968,unknown,unknown,3,77.27
+5822734,Rio de Janeiro,Brazil,0,78.05
+921869,New York,USA,4,78.15
+104497,unknown,unknown,4,75.46
+3388306,Los Angeles,USA,1,\N
+8720,New York,USA,3,74.53
+57129,Los Angeles,USA,2,88.19
+5419264,Rio de Janeiro,Brazil,0,\N
+41158,Stockholm,Sweden,3,85.78
+3137039,New York,USA,3,87.09
+104645,Rio de Janeiro,Brazil,4,83.97
+1263022,New York,USA,0,84.81
+8845,New York,USA,4,83.52
+1254846,New York,USA,4,81.44
+1255025,Rio de Janeiro,Brazil,4,79.18
+55607,Los Angeles,USA,2,67.32
+8848,New York,USA,3,73.06
+5623052,Los Angeles,USA,0,85.94
+9886128,Hanoi,Vietnam,0,80.07
+8744,New York,USA,4,66.38
+8771,New York,USA,4,88.3
+918935,Rio de Janeiro,Brazil,2,71.09
+2627243,Rio de Janeiro,Brazil,2,63.54
+5022210,New York,USA,0,80.61
+9662504,New York,USA,3,89.4
+8814,unknown,unknown,4,75.67
+2736888,Hanoi,Vietnam,5,94.08
+6777226,Los Angeles,USA,0,\N
+3136484,Miami,USA,0,83.59
+3249804,Rio de Janeiro,Brazil,4,77.03
+9754274,Hanoi,Vietnam,5,81.14
+1559191,Miami,USA,3,67.79
+3177254,unknown,unknown,5,78.13
+6810402,Los Angeles,USA,0,82.53
+68683,unknown,unknown,4,93.17
+2397956,unknown,unknown,3,59.79
+1492353,unknown,unknown,4,82.13
+3842192,Rio de Janeiro,Brazil,3,87.09
+8665,New York,USA,3,82.32
+3761578,New York,USA,4,93.01
+1024616,New York,USA,4,86.04
+1313191,New York,USA,0,87.13
+1640231,Miami,USA,0,80.74
+1650405,Stockholm,Sweden,2,73.42
+765288,New York,USA,0,87.25
+2428706,unknown,unknown,4,87.73
+1404879,Hanoi,Vietnam,3,78.98
+8794,New York,USA,5,91.86
+8818,New York,USA,4,72.79
+67200,Miami,USA,2,67.57
+104811,Rio de Janeiro,Brazil,4,77.45
+3761170,Rio de Janeiro,Brazil,3,80.03
+8684,New York,USA,3,71.66
+2477409,Hanoi,Vietnam,3,87.34
+5149062,unknown,unknown,2,84.02
+1206973,Stockholm,Sweden,4,81.58
+109343,Rio de Janeiro,Brazil,3,80.98
+8748528,New York,USA,0,81.69
+8806,New York,USA,2,66.53
+104789,Rio de Janeiro,Brazil,4,82.18
+2046671,unknown,unknown,2,88.02
+5141022,Miami,USA,5,82.25
+2314906,Miami,USA,0,\N
+2417388,Rio de Janeiro,Brazil,0,\N
+7957,Los Angeles,USA,4,80.6
+8650,New York,USA,4,86.76
+69118,New York,USA,3,81.7
+41292,Stockholm,Sweden,4,77.01
+355281,Los Angeles,USA,0,73.52
+1332580,Los Angeles,USA,0,76.95
+4790158,Hanoi,Vietnam,0,81.86
+5976956,Los Angeles,USA,4,79.54
+7948,Los Angeles,USA,3,84.89
+8645,New York,USA,3,79.56
+8652,New York,USA,4,83.1
+2733700,Rio de Janeiro,Brazil,4,75.19
+3580366,New York,USA,4,88.79
+41355,Stockholm,Sweden,4,81.64
+149590,New York,USA,4,82.8
+2826851,unknown,unknown,2,\N
+4751310,Los Angeles,USA,0,\N
+63900,New York,USA,2,69.57
+67728,Miami,USA,4,78.49
+4067292,Los Angeles,USA,4,\N
+7952,Los Angeles,USA,4,87.58
+1502171,Stockholm,Sweden,2,78.73
+9106680,New York,USA,4,92.83
+8838,New York,USA,5,93.36
+1275339,Stockholm,Sweden,0,82.13
+1359390,Los Angeles,USA,2,68.86
+5659850,Rio de Janeiro,Brazil,0,89.19
+149142,Los Angeles,USA,4,79.32
+2419856,Hanoi,Vietnam,3,83.53
+2861604,New York,USA,5,82.94
+3184588,New York,USA,2,46.75
+102121,New York,USA,3,84.24
+1274184,New York,USA,0,84.88
+3492572,New York,USA,4,77.41
+926343,Rio de Janeiro,Brazil,2,68.21
+1404497,Los Angeles,USA,2,78.29
+3189404,Rio de Janeiro,Brazil,0,\N
+5822266,Rio de Janeiro,Brazil,3,82.27
+59458,Los Angeles,USA,4,79.29
+8205,Miami,USA,3,78.46
+8812,New York,USA,4,88.54
+2396628,New York,USA,2,77.34
+4439316,New York,USA,3,76.24
+61700,unknown,unknown,4,70.27
+2317546,Miami,USA,2,73.28
+149144,Los Angeles,USA,2,67.55
+4595526,Rio de Janeiro,Brazil,1,81.75
+8791,New York,USA,4,69.49
+132255,Rio de Janeiro,Brazil,4,67.35
+548301,Hanoi,Vietnam,5,89.2
+2734599,unknown,unknown,3,72.68
+7940,Los Angeles,USA,2,74.17
+9720,Miami,USA,4,87.67
+67086,Los Angeles,USA,4,73.15
+79285,New York,USA,4,86.9
+8885418,unknown,unknown,5,\N
+326716,Rio de Janeiro,Brazil,4,73.66
+1419829,unknown,unknown,3,88.0
+1848969,Los Angeles,USA,2,73.46
+8648,New York,USA,4,78.45
+41178,Stockholm,Sweden,4,81.44
+4068570,Los Angeles,USA,4,\N
+1488407,unknown,unknown,0,80.33
+7975374,Miami,USA,0,87.44
+8745,unknown,unknown,4,87.25
+1267421,New York,USA,3,81.9
+4048872,Rio de Janeiro,Brazil,0,\N
+8741,New York,USA,2,77.94
+57510,Los Angeles,USA,0,83.9
+1154074,Hanoi,Vietnam,0,83.6
+4716028,Rio de Janeiro,Brazil,0,81.94
+104776,Rio de Janeiro,Brazil,4,87.41
+2705854,New York,USA,3,83.48
+8218,Miami,USA,2,70.16
+114669,Stockholm,Sweden,0,90.09
+2242038,Rio de Janeiro,Brazil,4,86.17
+8180,Miami,USA,4,80.41
+41147,Stockholm,Sweden,4,84.4
+1258232,New York,USA,3,69.52
+3145594,unknown,unknown,4,86.31
+41283,unknown,unknown,4,83.44
+4327354,Rio de Janeiro,Brazil,4,86.9
+477971,Rio de Janeiro,Brazil,3,74.97
+478096,Rio de Janeiro,Brazil,3,84.13
+1010151,Hanoi,Vietnam,4,82.1
+3767170,Hanoi,Vietnam,0,80.15
+4271496,Hanoi,Vietnam,4,\N
+56161,Miami,USA,3,80.66
+1027792,Stockholm,Sweden,0,64.17
+1301671,unknown,unknown,4,79.55
+1811137,New York,USA,3,81.98
+2777878,Hanoi,Vietnam,3,76.85
+3905404,unknown,unknown,0,\N
+962533,Rio de Janeiro,Brazil,3,72.88
+2553574,Stockholm,Sweden,0,84.62
+2653306,unknown,unknown,0,84.38
+97504,Rio de Janeiro,Brazil,4,79.43
+7925,Los Angeles,USA,3,78.64
+8682,New York,USA,5,80.64
+1411733,Hanoi,Vietnam,4,85.26
+4111712,Miami,USA,0,\N
+8828,New York,USA,4,89.36
+41160,Stockholm,Sweden,5,82.2
+8197,Miami,USA,3,82.44
+13826,Los Angeles,USA,4,84.62
+3153020,New York,USA,3,87.65
+61754,Los Angeles,USA,4,80.73
+1311018,New York,USA,2,82.24
+4746986,Los Angeles,USA,0,57.27
+1275344,Stockholm,Sweden,0,74.47
+60774,Miami,USA,2,68.23
+70077,New York,USA,4,85.39
+104838,Rio de Janeiro,Brazil,3,81.54
+914589,New York,USA,4,87.77
+3875280,Stockholm,Sweden,0,76.95
+4274266,Rio de Janeiro,Brazil,0,84.44
+8725,New York,USA,4,87.71
+8740,unknown,unknown,4,77.66
+67265,Miami,USA,4,78.31
+2300750,New York,USA,5,91.3
+1274220,Los Angeles,USA,0,58.83
+2054688,unknown,unknown,4,82.66
+2123746,unknown,unknown,3,81.94
+8754,New York,USA,4,95.61
+1367822,Rio de Janeiro,Brazil,0,84.32
+3590712,Rio de Janeiro,Brazil,4,88.34
+6777966,Los Angeles,USA,0,79.23
+69594,New York,USA,3,79.98
+2346506,New York,USA,3,77.19
+7938,unknown,unknown,3,69.65
+478011,Rio de Janeiro,Brazil,3,80.28
+1477057,Rio de Janeiro,Brazil,4,82.98
+4403594,New York,USA,3,82.64
+8811,New York,USA,3,79.66
+149592,New York,USA,3,80.72
+1274000,Hanoi,Vietnam,2,86.65
+1862097,New York,USA,2,78.23
+2104524,Hanoi,Vietnam,3,79.72
+3509464,New York,USA,3,83.51
+4199120,New York,USA,0,\N
+5958054,New York,USA,0,86.86
+7937,Los Angeles,USA,3,80.48
+4001134,unknown,unknown,0,\N
+8643,New York,USA,3,85.28
+8729,New York,USA,4,83.42
+2774416,New York,USA,4,85.52
+5688194,Rio de Janeiro,Brazil,2,86.08
+8691,New York,USA,5,87.18
+56155,unknown,unknown,3,87.12
+615921,Stockholm,Sweden,5,92.01
+3533498,Rio de Janeiro,Brazil,0,85.82
+8204,Miami,USA,3,79.64
+1332344,Los Angeles,USA,5,88.19
+7805880,unknown,unknown,0,\N
+1223390,Rio de Janeiro,Brazil,4,72.47
+3519946,Stockholm,Sweden,4,74.15
+4286736,Rio de Janeiro,Brazil,2,64.35
+6223518,New York,USA,3,83.61
+69220,Los Angeles,USA,4,80.69
+927099,New York,USA,3,77.71
+2002999,New York,USA,4,84.68
+3788556,Los Angeles,USA,2,58.67
+3946522,New York,USA,2,\N
+97747,Hanoi,Vietnam,5,85.29
+905663,New York,USA,4,78.51
+1285525,New York,USA,4,74.71
+95123,Los Angeles,USA,4,79.13
+95685,Rio de Janeiro,Brazil,5,78.52
+104677,Rio de Janeiro,Brazil,5,73.62
+4553282,New York,USA,1,\N
+1247289,New York,USA,0,70.95
+8184,unknown,unknown,4,79.59
+8764,New York,USA,3,75.43
+2214360,Hanoi,Vietnam,0,\N
+2242356,New York,USA,3,75.48
+3385534,Rio de Janeiro,Brazil,0,\N
+4711438,unknown,unknown,0,\N
+5713368,New York,USA,0,\N
+7954,Los Angeles,USA,3,84.14
+936373,Los Angeles,USA,2,69.84
+3892118,Rio de Janeiro,Brazil,0,\N
+4360550,unknown,unknown,0,\N
+8189,Miami,USA,3,75.07
+76490,Los Angeles,USA,2,66.23
+3145758,unknown,unknown,3,89.43
+109338,Rio de Janeiro,Brazil,3,76.57
+2235364,Rio de Janeiro,Brazil,0,88.3
+4005918,Miami,USA,4,\N
+67077,Los Angeles,USA,4,83.14
+104983,Rio de Janeiro,Brazil,3,70.21
+3967030,Los Angeles,USA,4,68.93
+41277,Stockholm,Sweden,4,85.85
+3392692,Los Angeles,USA,1,\N
+8134310,Rio de Janeiro,Brazil,0,87.55
+8830,New York,USA,5,93.74
+1258608,Los Angeles,USA,3,65.89
+1886567,New York,USA,4,86.51
+2876712,Hanoi,Vietnam,2,74.72
+3971232,Stockholm,Sweden,0,75.94
+83440,unknown,unknown,3,82.69
+834876,New York,USA,2,77.23
+1108565,Miami,USA,3,87.17
+1320873,New York,USA,2,76.25
+2861500,Rio de Janeiro,Brazil,1,78.74
+3992548,Hanoi,Vietnam,2,68.16
+1057862,unknown,unknown,3,78.78
+4007688,Rio de Janeiro,Brazil,0,\N
+4549880,Rio de Janeiro,Brazil,2,84.32
+5641710,Stockholm,Sweden,2,81.99
+1976539,Hanoi,Vietnam,3,87.85
+5763334,Rio de Janeiro,Brazil,4,86.23
+8196,Miami,USA,3,76.08
+8822,New York,USA,5,89.76
+2785298,Rio de Janeiro,Brazil,0,88.05
+8203,unknown,unknown,3,81.89
+76143,Miami,USA,3,71.09
+655696,Rio de Janeiro,Brazil,4,81.87
+1584521,Hanoi,Vietnam,4,76.67
+3497814,Rio de Janeiro,Brazil,5,92.01
+4027062,Rio de Janeiro,Brazil,0,\N
+8199,Miami,USA,4,85.69
+8769,unknown,unknown,4,86.82
+3219384,unknown,unknown,0,\N
+3752194,Hanoi,Vietnam,0,88.82
+5874900,Rio de Janeiro,Brazil,0,88.15
+1020935,Miami,USA,0,\N
+3506252,New York,USA,3,67.68
+623276,Rio de Janeiro,Brazil,4,86.55
+4542598,Hanoi,Vietnam,3,82.41
+7935,Los Angeles,USA,2,72.95
+1285690,unknown,unknown,3,80.69
+2289804,Rio de Janeiro,Brazil,3,81.58
+4021996,Hanoi,Vietnam,0,67.1
+8211,Miami,USA,3,76.04
+109351,Rio de Janeiro,Brazil,4,85.76
+1211140,New York,USA,2,80.09
+1242959,New York,USA,3,80.72
+8256462,Rio de Janeiro,Brazil,0,86.45
+7932,unknown,unknown,3,79.86
+924697,Rio de Janeiro,Brazil,3,71.06
+1153990,New York,USA,3,85.05
+3227354,Hanoi,Vietnam,3,89.42
+5922572,Rio de Janeiro,Brazil,4,\N
+105520,Hanoi,Vietnam,5,93.12
+5620902,unknown,unknown,0,77.02
+10692260,New York,USA,0,79.77
+41191,Stockholm,Sweden,5,87.54
+102097,New York,USA,4,82.07
+1259572,New York,USA,3,82.62
+2498020,New York,USA,4,87.22
+2180578,Los Angeles,USA,2,65.79
+3137056,New York,USA,4,85.87
+3137058,New York,USA,4,80.6
+4841600,Stockholm,Sweden,3,89.71
+8434474,New York,USA,4,88.71
+8749,New York,USA,4,90.9
+1291442,unknown,unknown,2,80.99
+1834067,Hanoi,Vietnam,3,88.51
+4036372,Hanoi,Vietnam,0,75.3
+5334644,New York,USA,3,78.86
+5748806,Rio de Janeiro,Brazil,0,85.59
+77672,Los Angeles,USA,2,75.04
+149146,Los Angeles,USA,3,81.1
+394701,New York,USA,0,80.15
+1969415,New York,USA,3,83.43
+1955937,Hanoi,Vietnam,4,84.95
+55404,New York,USA,0,\N
+104790,Rio de Janeiro,Brazil,4,82.61
+1240385,Stockholm,Sweden,4,86.23
+1291960,New York,USA,0,63.31
+1535581,unknown,unknown,1,65.07
+2269806,New York,USA,3,86.05
+109353,Rio de Janeiro,Brazil,4,83.64
+1105366,Stockholm,Sweden,4,83.89
+8738,New York,USA,4,76.8
+4689900,Los Angeles,USA,0,\N
+8801,unknown,unknown,4,84.63
+3159718,unknown,unknown,2,52.11
+8782,New York,USA,3,82.71
+911697,unknown,unknown,3,84.12
+2103472,Hanoi,Vietnam,2,80.0
+2265520,Hanoi,Vietnam,3,77.31
+8712,New York,USA,2,73.5
+150737,Stockholm,Sweden,2,69.11
+840461,New York,USA,3,81.08
+2607253,New York,USA,0,90.9
+980255,Miami,USA,2,52.99
+41270,Stockholm,Sweden,4,76.57
+8640,New York,USA,4,77.44
+150138,Rio de Janeiro,Brazil,4,86.95
+69335,Miami,USA,0,58.77
+106405,Rio de Janeiro,Brazil,4,86.78
+2877885,Los Angeles,USA,2,69.71
+4626720,Rio de Janeiro,Brazil,4,76.65
+8840,New York,USA,4,84.15
+109350,Rio de Janeiro,Brazil,4,81.85
+8837,New York,USA,4,89.92
+14097,Los Angeles,USA,3,80.03
+1108198,Miami,USA,5,84.72
+3249040,Rio de Janeiro,Brazil,0,\N
+4447060,Miami,USA,4,80.42
+104680,Rio de Janeiro,Brazil,3,77.48
+1274214,unknown,unknown,3,82.48
+3812738,New York,USA,5,89.42
+3841386,New York,USA,4,94.44
+4202162,Los Angeles,USA,0,83.11
+5188226,Rio de Janeiro,Brazil,0,\N
+5213814,New York,USA,3,87.12
+8732,New York,USA,5,86.66
+1842819,Hanoi,Vietnam,3,91.0
+101327,Hanoi,Vietnam,5,86.71
+1053002,Stockholm,Sweden,0,85.27
+2547986,New York,USA,3,87.05
+2838706,Hanoi,Vietnam,2,69.36
+4454060,Rio de Janeiro,Brazil,0,\N
+5767068,Los Angeles,USA,0,62.52
+59178,New York,USA,4,73.99
+1947355,unknown,unknown,2,73.34
+8637,New York,USA,2,77.83
+8435490,Miami,USA,3,84.51
+1436082,New York,USA,4,90.87
+1845497,New York,USA,3,80.32
+3150137,New York,USA,2,78.88
+5203790,Hanoi,Vietnam,0,66.67
+149396,Miami,USA,3,79.73
+10064344,New York,USA,4,81.23
+444151,Los Angeles,USA,2,83.48
+2299282,New York,USA,0,80.84
+923913,unknown,unknown,3,82.09
+8737,New York,USA,3,89.64
+910417,New York,USA,3,83.07
+1489473,Los Angeles,USA,2,83.52
+4493482,Stockholm,Sweden,3,83.71
+4548544,New York,USA,0,\N
+8632,New York,USA,3,85.74
+2097814,unknown,unknown,0,\N
+893957,New York,USA,3,76.86
+2153936,Stockholm,Sweden,0,81.56
+104800,unknown,unknown,4,76.36
+921041,New York,USA,4,77.63
+5123142,Rio de Janeiro,Brazil,0,83.65
+153216,New York,USA,2,63.55
+3482080,New York,USA,2,\N
+4800516,Rio de Janeiro,Brazil,4,85.9
+2773560,Stockholm,Sweden,2,68.68
+3514622,unknown,unknown,0,92.27
+7951,Los Angeles,USA,3,80.95
+104761,Rio de Janeiro,Brazil,4,75.04
+3240336,New York,USA,4,83.82
+3957818,Rio de Janeiro,Brazil,0,\N
+829671,Rio de Janeiro,Brazil,3,84.01
+1328425,Stockholm,Sweden,4,87.96
+3150494,New York,USA,3,85.26
+5714198,New York,USA,0,\N
+1106276,New York,USA,2,81.92
+3133278,New York,USA,5,88.48
+5497220,Rio de Janeiro,Brazil,5,85.98
+1891225,Stockholm,Sweden,3,87.63
+4518444,New York,USA,4,91.31
+5970084,Rio de Janeiro,Brazil,0,81.52
+1024602,New York,USA,2,77.56
+2626774,Hanoi,Vietnam,0,74.54
+4247568,New York,USA,0,\N
+131204,unknown,unknown,3,81.49
+152588,Hanoi,Vietnam,4,88.36
+1306864,Hanoi,Vietnam,3,91.17
+7359190,New York,USA,0,\N
+83437,Stockholm,Sweden,4,75.69
+416976,New York,USA,0,86.43
+478871,unknown,unknown,4,81.69
+895685,unknown,unknown,0,88.49
+1311194,New York,USA,0,\N
+1941775,unknown,unknown,3,76.34
+2438854,unknown,unknown,1,45.84
+5789164,unknown,unknown,3,87.55
+153082,Miami,USA,5,92.69
+2656194,New York,USA,3,86.1
+5645714,New York,USA,0,87.59
+8906176,Los Angeles,USA,5,91.34
+368781,New York,USA,4,86.57
+1709833,Stockholm,Sweden,2,69.64
+2827107,Rio de Janeiro,Brazil,0,91.86
+3813312,Hanoi,Vietnam,0,75.5
+417401,New York,USA,3,79.6
+477926,Rio de Janeiro,Brazil,4,79.41
+929305,Hanoi,Vietnam,2,79.01
+1502147,Rio de Janeiro,Brazil,3,77.19
+2437309,New York,USA,3,84.29
+2438872,unknown,unknown,2,68.29
+4727514,Los Angeles,USA,0,62.89
+12473506,Miami,USA,0,\N
+903415,New York,USA,2,62.91
+1945507,Miami,USA,4,89.94
+41284,Stockholm,Sweden,3,80.67
+64435,Los Angeles,USA,3,83.39
+1314336,Stockholm,Sweden,1,77.91
+3133151,Rio de Janeiro,Brazil,2,68.92
+8718,New York,USA,4,73.95
+2638742,Rio de Janeiro,Brazil,0,85.14
+4660076,New York,USA,0,79.04
+4673964,unknown,unknown,4,87.45
+1032946,New York,USA,0,69.48
+1953983,unknown,unknown,4,83.19
+3943824,unknown,unknown,0,\N
+8728,New York,USA,3,84.85
+315671,New York,USA,2,68.67
+1306615,New York,USA,2,82.37
+104681,Rio de Janeiro,Brazil,4,82.52
+2670352,Los Angeles,USA,2,68.24
+59948,Los Angeles,USA,2,83.07
+1197938,New York,USA,3,80.2
+41224,Stockholm,Sweden,4,88.12
+104793,Rio de Janeiro,Brazil,5,84.45
+8788,New York,USA,4,85.83
+3122424,New York,USA,3,85.16
+8633,New York,USA,4,67.35
+140199,Los Angeles,USA,3,75.01
+2477930,Hanoi,Vietnam,3,83.73
+6551256,Los Angeles,USA,0,\N
+8686,New York,USA,0,67.91
+41148,Stockholm,Sweden,4,76.39
+104679,unknown,unknown,4,76.74
+41334,Stockholm,Sweden,3,79.82
+150733,Stockholm,Sweden,3,69.4
+1572735,unknown,unknown,4,73.95
+2453514,Hanoi,Vietnam,0,\N
+4984052,New York,USA,0,\N
+442386,Miami,USA,1,65.26
+4556616,Rio de Janeiro,Brazil,0,84.69
+4593172,New York,USA,4,85.3
+5479026,Los Angeles,USA,0,77.57
+5708658,Rio de Janeiro,Brazil,5,83.41
+6724156,Los Angeles,USA,0,46.07
+3385956,New York,USA,4,75.79
+4986828,Rio de Janeiro,Brazil,0,85.26
+903589,Rio de Janeiro,Brazil,3,61.73
+41280,Stockholm,Sweden,3,86.92
+107783,Stockholm,Sweden,0,84.74
+2438701,Los Angeles,USA,2,63.55
+8709,New York,USA,3,83.02
+8378996,unknown,unknown,0,74.98
+356966,Los Angeles,USA,2,67.51
+1755939,Stockholm,Sweden,4,80.91
+3224362,Rio de Janeiro,Brazil,3,85.96
+5612142,Rio de Janeiro,Brazil,4,75.22
+97584,Rio de Janeiro,Brazil,4,59.86
+101324,Hanoi,Vietnam,5,89.45
+2295680,Hanoi,Vietnam,3,79.55
+5053932,Miami,USA,4,85.77
+8179,Miami,USA,3,81.07
+100951,Stockholm,Sweden,2,76.23
+104941,Rio de Janeiro,Brazil,3,74.09
+6321878,New York,USA,3,78.71
+6988130,unknown,unknown,3,86.26
+41193,Stockholm,Sweden,4,88.12
+1922959,Hanoi,Vietnam,3,84.47
+3385214,Hanoi,Vietnam,0,89.49
+4155306,Rio de Janeiro,Brazil,4,83.34
+41123,Stockholm,Sweden,3,85.55
+927085,New York,USA,3,82.32
+1942185,unknown,unknown,2,75.86
+5163888,unknown,unknown,0,\N
+7116020,Miami,USA,3,84.81
+7939,Los Angeles,USA,4,80.26
+358381,New York,USA,3,76.63
+443191,unknown,unknown,4,81.13
+5610274,New York,USA,0,83.68
+5753416,New York,USA,0,\N
+12461414,New York,USA,0,\N
+105002,Rio de Janeiro,Brazil,4,84.29
+1334416,New York,USA,5,90.1
+5061572,Los Angeles,USA,3,77.74
+6290630,Los Angeles,USA,0,\N
+8699,New York,USA,3,83.05
+8708,New York,USA,3,81.66
+161607,New York,USA,0,84.78
+478876,Rio de Janeiro,Brazil,4,75.38
+1169991,New York,USA,3,85.77
+1824641,Los Angeles,USA,1,57.37
+8134318,New York,USA,4,88.76
+403096,Los Angeles,USA,0,80.13
+3500952,New York,USA,5,94.75
+5181392,Los Angeles,USA,4,91.38
+5610116,Stockholm,Sweden,3,65.94
+8847,New York,USA,3,84.2
+41353,Stockholm,Sweden,3,81.29
+1018405,Los Angeles,USA,2,67.7
+4637024,Los Angeles,USA,0,83.29
+7934,Los Angeles,USA,3,74.18
+7941,Los Angeles,USA,2,78.62
+8767,New York,USA,3,70.65
+1273272,New York,USA,4,87.6
+7351818,Stockholm,Sweden,5,94.63
+8723,New York,USA,4,84.78
+104780,Rio de Janeiro,Brazil,4,75.99
+1571835,Hanoi,Vietnam,3,89.91
+1890753,New York,USA,4,80.15
+1990731,New York,USA,4,76.12
+2109784,Hanoi,Vietnam,4,83.76
+3167500,Rio de Janeiro,Brazil,0,\N
+4990808,Hanoi,Vietnam,0,96.11
+417291,New York,USA,4,86.04
+1018411,Los Angeles,USA,0,69.16
+1542965,Miami,USA,5,88.06
+104653,Rio de Janeiro,Brazil,3,57.76
+1323028,unknown,unknown,5,89.53
+1772337,Rio de Janeiro,Brazil,0,67.74
+5139964,New York,USA,0,\N
+5478434,Los Angeles,USA,0,\N
+1718091,Stockholm,Sweden,0,82.38
+5134828,Stockholm,Sweden,2,81.4
+8517172,Los Angeles,USA,0,73.77
+13267400,Miami,USA,0,90.08
+8792,New York,USA,4,77.96
+109340,unknown,unknown,4,80.57
+4210672,New York,USA,0,\N
+7146462,Miami,USA,0,81.04
+56656,Miami,USA,5,79.44
+4895166,Los Angeles,USA,2,\N
+67192,Miami,USA,4,73.19
+1983177,Hanoi,Vietnam,5,77.5
+2455474,Hanoi,Vietnam,3,94.16
+8985292,New York,USA,4,85.25
+8629,New York,USA,4,83.42
+152591,Hanoi,Vietnam,5,80.9
+4416774,Rio de Janeiro,Brazil,0,\N
+6312478,New York,USA,3,83.43
+3971584,Los Angeles,USA,0,73.41
+5049908,Hanoi,Vietnam,4,\N
+5126858,Rio de Janeiro,Brazil,0,78.67
+1720119,Hanoi,Vietnam,2,94.39
+69598,Miami,USA,3,83.02
+3365737,New York,USA,3,89.46
+3809056,Los Angeles,USA,4,\N
+7956,Los Angeles,USA,3,81.91
+1891179,Miami,USA,0,\N
+4454760,Rio de Janeiro,Brazil,4,86.67
+56050,Los Angeles,USA,2,68.22
+1774955,Hanoi,Vietnam,2,94.33
+2085786,Rio de Janeiro,Brazil,0,\N
+3908810,Los Angeles,USA,0,80.75
+8710038,Miami,USA,3,89.43
+8183,Miami,USA,3,63.41
+56498,Miami,USA,4,84.69
+394141,unknown,unknown,4,90.6
+896005,Rio de Janeiro,Brazil,3,77.19
+1435702,Los Angeles,USA,3,66.52
+1890975,New York,USA,3,74.07
+2298566,New York,USA,4,86.26
+8756,New York,USA,4,91.67
+41177,Stockholm,Sweden,4,75.04
+55441,New York,USA,3,85.56
+102109,New York,USA,2,74.3
+377716,New York,USA,3,81.18
+107785,Stockholm,Sweden,0,87.79
+1359319,New York,USA,0,87.55
+1719245,Stockholm,Sweden,4,89.86
+3148916,Rio de Janeiro,Brazil,3,78.47
+8765,New York,USA,3,79.6
+79563,New York,USA,4,82.56
+153084,Miami,USA,3,80.63
+1514863,Los Angeles,USA,0,\N
+2499104,New York,USA,4,88.62
+3963636,unknown,unknown,3,80.53
+6101742,Los Angeles,USA,0,90.62
+4371904,Miami,USA,5,87.72
+5966734,Miami,USA,0,\N
+12170244,Stockholm,Sweden,0,89.8
+8210,Miami,USA,2,65.95
+8758,New York,USA,4,86.5
+1289586,unknown,unknown,2,71.51
+2084838,Los Angeles,USA,3,78.27
+2797087,unknown,unknown,2,88.09
+5186564,New York,USA,4,87.65
+4985600,New York,USA,5,85.12
+64425,Miami,USA,3,70.11
+104848,Rio de Janeiro,Brazil,4,75.94
+478121,Rio de Janeiro,Brazil,4,80.93
+6448690,New York,USA,0,73.05
+7965,Los Angeles,USA,2,64.55
+8816,New York,USA,4,89.06
+1285527,New York,USA,4,77.33
+1845439,Hanoi,Vietnam,3,96.1
+5066908,Rio de Janeiro,Brazil,5,87.55
+7950,Los Angeles,USA,3,82.0
+7960,unknown,unknown,2,71.24
+1204548,Rio de Janeiro,Brazil,0,78.98
+1353198,Los Angeles,USA,2,45.08
+2104222,Hanoi,Vietnam,3,82.65
+3855032,Los Angeles,USA,2,\N
+3957298,Stockholm,Sweden,0,73.62
+5156176,Los Angeles,USA,0,67.1
+8733,New York,USA,4,78.93
+56586,New York,USA,5,90.38
+8735292,Los Angeles,USA,0,\N
+67985,Miami,USA,2,68.23
+2835834,New York,USA,4,88.37
+1336914,New York,USA,4,78.58
+1771981,unknown,unknown,3,72.69
+2423448,New York,USA,2,83.49
+7958,Los Angeles,USA,2,66.77
+111337,New York,USA,2,58.01
+1504309,Miami,USA,5,90.45
+2565016,Hanoi,Vietnam,4,77.98
+3872388,Los Angeles,USA,2,60.92
+3882914,Los Angeles,USA,0,69.06
+97505,Rio de Janeiro,Brazil,4,77.08
+2627240,Rio de Janeiro,Brazil,5,91.89
+5135620,Miami,USA,0,\N
+1108820,Miami,USA,0,81.7
+2851743,New York,USA,4,93.3
+109339,Rio de Janeiro,Brazil,3,73.86
+1325756,Stockholm,Sweden,3,68.66
+2731932,New York,USA,3,81.51
+3126216,New York,USA,4,87.78
+6869982,New York,USA,0,\N
+104990,Rio de Janeiro,Brazil,5,92.42
+2049705,Hanoi,Vietnam,2,84.51
+8663,New York,USA,4,84.08
+8730,New York,USA,3,79.46
+104558,Rio de Janeiro,Brazil,3,70.52
+104866,unknown,unknown,4,75.31
+394256,New York,USA,3,74.5
+1891053,New York,USA,3,79.46
+2049931,New York,USA,4,84.13
+3584418,Hanoi,Vietnam,0,84.84
+1504633,New York,USA,5,87.01
+2727660,Miami,USA,3,87.05
+151686,Stockholm,Sweden,3,80.91
+3201018,Rio de Janeiro,Brazil,0,\N
+4916380,New York,USA,4,87.74
+499691,New York,USA,2,69.68
+899837,New York,USA,3,74.86
+3366498,Hanoi,Vietnam,4,94.74
+7554016,New York,USA,3,85.55
+1535907,New York,USA,3,86.83
+1938843,Los Angeles,USA,4,86.72
+149585,New York,USA,2,74.18
+791196,Stockholm,Sweden,3,67.93
+918039,New York,USA,3,75.22
+3089034,Rio de Janeiro,Brazil,0,75.81
+3826806,New York,USA,2,74.15
+956295,New York,USA,2,60.64
+1270881,New York,USA,3,80.03
+1771225,Rio de Janeiro,Brazil,3,86.59
+4182436,Los Angeles,USA,0,\N
+5212582,Hanoi,Vietnam,0,94.66
+8217,Miami,USA,2,79.05
+929297,Hanoi,Vietnam,3,87.86
+3137233,unknown,unknown,5,86.07
+4177202,Los Angeles,USA,2,56.64
+1357382,Hanoi,Vietnam,3,83.15
+1673679,Hanoi,Vietnam,4,85.33
+5830856,Rio de Janeiro,Brazil,0,85.35
+3060458,Los Angeles,USA,4,82.62
+6463166,Rio de Janeiro,Brazil,0,74.3
+695761,Hanoi,Vietnam,4,81.71
+3249276,Rio de Janeiro,Brazil,0,\N
+8220044,Hanoi,Vietnam,3,73.75
+401991,New York,USA,5,90.52
+4045082,Rio de Janeiro,Brazil,0,84.0
+4849690,unknown,unknown,3,77.57
+105518,Hanoi,Vietnam,5,83.44
+149147,Los Angeles,USA,2,72.54
+901399,New York,USA,3,82.98
+2153000,Miami,USA,3,68.03
+5149642,Los Angeles,USA,4,\N
+8439742,Miami,USA,3,86.64
+8220,Miami,USA,2,73.83
+2329290,Rio de Janeiro,Brazil,0,\N
+104698,Rio de Janeiro,Brazil,4,80.24
+4841720,Stockholm,Sweden,4,86.42
+10092692,New York,USA,3,84.82
+104639,Rio de Janeiro,Brazil,4,80.88
+1489633,New York,USA,4,91.93
+4108654,unknown,unknown,0,\N
+4138518,Stockholm,Sweden,0,78.92
+1369165,Miami,USA,3,75.78
+3135886,Stockholm,Sweden,3,87.87
+41310,Stockholm,Sweden,4,78.02
+2617902,Miami,USA,3,83.12
+7929,Los Angeles,USA,2,83.63
+149148,Los Angeles,USA,3,76.36
+2539650,Miami,USA,0,87.89
+443751,Stockholm,Sweden,4,77.55
+3176710,Rio de Janeiro,Brazil,3,\N
+8808,unknown,unknown,4,84.16
+1173062,New York,USA,0,73.26
+64125,Miami,USA,3,68.15
+5072500,New York,USA,0,\N
+102157,New York,USA,3,82.43
+1708335,Rio de Janeiro,Brazil,1,67.05
+4041276,Los Angeles,USA,4,65.65
+55664,Miami,USA,3,90.63
+67188,Miami,USA,0,62.97
+927107,unknown,unknown,5,84.69
+2299808,New York,USA,0,88.85
+8735,New York,USA,4,82.28
+368941,New York,USA,3,77.96
+990413,Rio de Janeiro,Brazil,3,82.13
+1170045,New York,USA,3,81.53
+1262087,Miami,USA,3,80.31
+102100,unknown,unknown,2,65.0
+1942907,Rio de Janeiro,Brazil,0,\N
+5116246,New York,USA,0,76.64
+6430154,New York,USA,2,86.4
+61684,unknown,unknown,3,80.95
+9361064,Los Angeles,USA,0,71.71
+8646,New York,USA,5,90.71
+2851664,Rio de Janeiro,Brazil,3,78.76
+3860244,Hanoi,Vietnam,0,77.21
+9771628,unknown,unknown,5,92.89
+8786,New York,USA,3,76.78
+104788,Rio de Janeiro,Brazil,4,74.46
+1330721,unknown,unknown,5,93.53
+2612606,New York,USA,3,87.39
+3149106,New York,USA,2,81.38
+3500934,Miami,USA,3,90.13
+3842238,Rio de Janeiro,Brazil,2,84.13
+4373314,Los Angeles,USA,0,\N
+7221734,Stockholm,Sweden,4,90.76
+8700,New York,USA,5,85.82
+1256727,Stockholm,Sweden,4,90.8
+2214396,Hanoi,Vietnam,5,80.09
+3533692,Hanoi,Vietnam,0,89.33
+4200890,Stockholm,Sweden,4,85.24
+8631,New York,USA,3,65.23
+398876,Los Angeles,USA,2,91.52
+456751,New York,USA,2,76.77
+7118054,Rio de Janeiro,Brazil,0,74.44
+8177,Miami,USA,3,83.59
+104565,Rio de Janeiro,Brazil,3,76.02
+2832950,New York,USA,5,77.89
+5476550,unknown,unknown,3,83.49
+7955,Los Angeles,USA,2,77.22
+4004928,Rio de Janeiro,Brazil,0,\N
+55885,Miami,USA,4,80.7
+4529922,Los Angeles,USA,3,77.49
+41377,Stockholm,Sweden,4,80.57
+1301669,New York,USA,3,85.18
+8823,New York,USA,4,68.88
+441891,Miami,USA,2,83.62
+8201,unknown,unknown,3,74.86
+3500394,Stockholm,Sweden,4,91.85
+1010089,Hanoi,Vietnam,3,\N
+2848926,unknown,unknown,0,52.6
+104528,Rio de Janeiro,Brazil,5,79.67
+2520414,Hanoi,Vietnam,3,92.69
+617386,Los Angeles,USA,3,85.68
+8755,New York,USA,4,85.13
+153215,New York,USA,2,67.13
+8628,New York,USA,4,85.73
+1970843,New York,USA,3,79.17
+2005383,Rio de Janeiro,Brazil,2,87.15
+104880,Rio de Janeiro,Brazil,3,85.34
+104881,Rio de Janeiro,Brazil,3,56.54
+1211624,Los Angeles,USA,2,76.29
+2015353,Stockholm,Sweden,2,77.2
+5723646,Rio de Janeiro,Brazil,3,83.33
+6127164,Rio de Janeiro,Brazil,0,81.0
+398551,Hanoi,Vietnam,4,77.74
+2832987,Rio de Janeiro,Brazil,0,\N
+100938,Stockholm,Sweden,2,77.96
+819676,Hanoi,Vietnam,3,79.93
+1592145,Stockholm,Sweden,5,87.86
+2577602,Hanoi,Vietnam,2,78.89
+5802406,Rio de Janeiro,Brazil,0,82.9
+4388528,Rio de Janeiro,Brazil,0,68.89
+5822402,Rio de Janeiro,Brazil,4,84.8
+477996,unknown,unknown,4,84.81
+2942392,Hanoi,Vietnam,4,87.39
+3058902,Los Angeles,USA,0,74.12
+104809,unknown,unknown,3,81.38
+1142001,New York,USA,0,76.39
+7964,unknown,unknown,2,59.51
+78829,Miami,USA,1,82.03
+4415356,Stockholm,Sweden,0,75.8
+5144842,Miami,USA,0,\N
+8213,unknown,unknown,3,71.37
+1714355,Hanoi,Vietnam,3,81.45
+1890353,Rio de Janeiro,Brazil,0,\N
+2742274,Hanoi,Vietnam,3,93.3
+3967402,New York,USA,3,84.99
+8216,unknown,unknown,2,71.32
+1018815,Los Angeles,USA,1,65.83
+3152312,unknown,unknown,4,91.37
+3183538,New York,USA,4,92.34
+859731,New York,USA,0,\N
+1052148,Stockholm,Sweden,0,80.63
+2788294,Rio de Janeiro,Brazil,3,85.06
+4603378,Rio de Janeiro,Brazil,0,\N
+5200182,New York,USA,0,89.09
+95794,Rio de Janeiro,Brazil,4,79.66
+41305,Stockholm,Sweden,4,81.95
+41354,Stockholm,Sweden,4,91.74
+100946,Stockholm,Sweden,4,81.35
+149149,Los Angeles,USA,4,76.0
+1242950,New York,USA,4,79.4
+4214382,Miami,USA,4,88.74
+923417,Miami,USA,3,84.34
+2158614,Hanoi,Vietnam,3,85.93
+2281300,Rio de Janeiro,Brazil,3,85.65
+3509946,Hanoi,Vietnam,3,93.19
+3820570,Stockholm,Sweden,3,74.9
+887681,Stockholm,Sweden,2,73.65
+1488365,New York,USA,4,85.72
+3523598,Los Angeles,USA,3,50.3
+8193,Miami,USA,4,78.37
+105519,Hanoi,Vietnam,5,82.56
+8194,Miami,USA,3,77.97
+929425,Rio de Janeiro,Brazil,5,86.99
+2214306,Hanoi,Vietnam,0,\N
+3962120,Los Angeles,USA,0,\N
+4726582,Hanoi,Vietnam,4,84.31
+8669,unknown,unknown,4,93.21
+8834,New York,USA,4,78.03
+2651217,Hanoi,Vietnam,3,85.26
+5493194,Rio de Janeiro,Brazil,2,80.93
+61426,Miami,USA,2,83.88
+62376,New York,USA,4,83.75
+67085,Los Angeles,USA,3,70.73
+4897498,Miami,USA,0,\N
+5144856,Miami,USA,0,79.03
+8188,Miami,USA,3,63.26
+8672,New York,USA,3,77.79
+8836,unknown,unknown,0,76.28
+2838550,Miami,USA,0,\N
+8787,New York,USA,2,74.84
+5701536,Rio de Janeiro,Brazil,3,82.88
+3145592,Rio de Janeiro,Brazil,3,91.08
+104913,Rio de Janeiro,Brazil,3,82.61
+1459653,Miami,USA,2,50.52
+6139700,New York,USA,0,\N
+8813,New York,USA,4,84.24
+149589,New York,USA,3,86.55
+104650,Rio de Janeiro,Brazil,5,81.25
+149150,Los Angeles,USA,4,85.85
+2242508,Rio de Janeiro,Brazil,0,76.91
+2503716,Los Angeles,USA,0,70.57
+3137050,New York,USA,3,83.92
+8724,New York,USA,3,80.86
+1692909,Hanoi,Vietnam,3,\N
+3084571,Miami,USA,0,85.46
+5014762,New York,USA,3,85.28
+1494393,New York,USA,4,86.93
+3895248,New York,USA,0,75.99
+41192,Stockholm,Sweden,4,87.26
+3877096,Rio de Janeiro,Brazil,0,\N
+4900990,New York,USA,0,60.37
+8192,Miami,USA,2,81.16
+41164,Stockholm,Sweden,3,76.67
+149597,New York,USA,4,75.89
+152583,Hanoi,Vietnam,4,77.8
+1108473,New York,USA,4,82.67
+1953675,Miami,USA,3,80.6
+2305630,Miami,USA,0,64.96
+5066848,Miami,USA,0,86.66
+367066,Miami,USA,0,72.71
+2540150,New York,USA,0,68.51
+2670902,Rio de Janeiro,Brazil,0,\N
+6452448,Rio de Janeiro,Brazil,3,88.55
+8810,unknown,unknown,4,82.53
+72522,New York,USA,4,86.74
+4163580,Los Angeles,USA,0,62.54
+915981,New York,USA,3,79.48
+2567012,Hanoi,Vietnam,2,83.48
+4727072,New York,USA,0,86.65
+10213132,Los Angeles,USA,3,81.57
+1352626,New York,USA,4,86.6
+4485118,Miami,USA,0,\N
+153209,New York,USA,3,83.07
+2293866,Hanoi,Vietnam,3,79.97
+5435028,Miami,USA,3,89.3
+9307312,New York,USA,0,\N
+67390,New York,USA,0,89.24
+3122410,New York,USA,3,82.53
+8722,New York,USA,3,74.93
+1321742,unknown,unknown,4,90.4
+2630567,Stockholm,Sweden,0,79.83
+4205496,Los Angeles,USA,3,85.48
+4345728,Rio de Janeiro,Brazil,4,89.11
+56179,Miami,USA,4,85.69
+8803,unknown,unknown,4,87.9
+41321,Stockholm,Sweden,3,75.69
+149587,New York,USA,4,79.55
+1728289,New York,USA,3,84.34
+7963,Los Angeles,USA,3,80.23
+2593953,New York,USA,5,91.42
+5158280,New York,USA,0,63.34
+8208,Miami,USA,0,74.91
+104524,unknown,unknown,3,76.7
+2417048,New York,USA,0,72.42
+63865,New York,USA,4,87.77
+118472,Rio de Janeiro,Brazil,4,55.74
+451221,Stockholm,Sweden,3,84.36
+1082852,New York,USA,5,86.29
+1455521,New York,USA,4,83.85
+4938872,New York,USA,3,87.58
+8696,unknown,unknown,3,83.18
+41382,Stockholm,Sweden,4,82.17
+8191,unknown,unknown,3,82.22
+3044940,New York,USA,0,87.75
+4487344,Miami,USA,3,91.0
+100941,Stockholm,Sweden,4,82.32
+2227822,Hanoi,Vietnam,4,82.41
+7942,Los Angeles,USA,2,56.51
+890283,New York,USA,3,74.62
+2257032,unknown,unknown,0,87.01
+2983148,New York,USA,0,83.61
+58962,Los Angeles,USA,2,67.26
+60505,New York,USA,3,73.95
+357486,New York,USA,3,64.58
+3953660,New York,USA,3,89.24
+393471,New York,USA,3,\N
+1169335,New York,USA,3,77.11
+1352526,unknown,unknown,5,89.29
+1040514,Rio de Janeiro,Brazil,0,76.13
+5967978,Stockholm,Sweden,3,74.14
+8807,New York,USA,3,81.03
+655691,Rio de Janeiro,Brazil,3,79.51
+100955,Stockholm,Sweden,2,81.36
+1179630,unknown,unknown,2,72.88
+2324560,unknown,unknown,0,\N
+58021,New York,USA,3,78.83
+1273987,Hanoi,Vietnam,2,68.07
+1717825,Rio de Janeiro,Brazil,0,79.4
+1994909,Rio de Janeiro,Brazil,0,76.07
+3552300,Hanoi,Vietnam,3,88.44
+4576200,Stockholm,Sweden,3,85.46
+7946,Los Angeles,USA,3,81.59
+14867,New York,USA,3,77.23
+369591,Miami,USA,4,78.87
+1309672,Hanoi,Vietnam,0,81.01
+3063112,unknown,unknown,2,69.76
+3882130,Rio de Janeiro,Brazil,0,\N
+7961,Los Angeles,USA,4,80.45
+107749,Stockholm,Sweden,3,71.73
+6794024,Rio de Janeiro,Brazil,0,\N
+104917,Rio de Janeiro,Brazil,3,80.19
+1207586,Stockholm,Sweden,0,58.01
+1755831,Hanoi,Vietnam,3,91.37
+4389950,Rio de Janeiro,Brazil,3,87.44
+3143066,Los Angeles,USA,3,87.16
+12122442,unknown,unknown,3,86.96
+1037378,Stockholm,Sweden,0,82.54
+4749586,New York,USA,4,80.12
+8721,New York,USA,4,90.42
+153205,New York,USA,4,77.36
+1689609,Hanoi,Vietnam,5,87.29
+5150678,unknown,unknown,4,78.29
+8781,New York,USA,4,88.71
+8178,Miami,USA,3,78.36
+8750,New York,USA,4,89.21
+361161,Hanoi,Vietnam,5,82.97
+5152360,Rio de Janeiro,Brazil,4,\N
+65175,New York,USA,3,83.65
+2214430,Hanoi,Vietnam,0,\N
+3976932,Stockholm,Sweden,0,84.09
+1271995,New York,USA,0,77.67
+1390128,Hanoi,Vietnam,4,85.63
+3120550,New York,USA,3,85.46
+6438418,Rio de Janeiro,Brazil,3,87.76
+8716,New York,USA,4,78.88
+130771,Rio de Janeiro,Brazil,3,79.38
+2246916,Los Angeles,USA,2,\N
+2685680,Hanoi,Vietnam,3,94.22
+8763,unknown,unknown,4,82.53
+41296,Stockholm,Sweden,5,90.99
+104735,Rio de Janeiro,Brazil,5,83.99
+886217,unknown,unknown,2,82.31
+41208,Stockholm,Sweden,4,76.02
+107293,Rio de Janeiro,Brazil,3,75.55
+3914930,Los Angeles,USA,0,86.67
+2103538,unknown,unknown,4,85.45
+5146100,Los Angeles,USA,2,69.29
+927475,New York,USA,3,82.28
+2087218,Miami,USA,0,74.51
+8757,New York,USA,4,85.62
+2031137,Hanoi,Vietnam,3,75.87
+3500444,Los Angeles,USA,0,82.8
+8635,New York,USA,3,70.19
+102105,New York,USA,2,76.43
+1247912,Stockholm,Sweden,0,62.23
+59600,Los Angeles,USA,3,80.66
+899759,Miami,USA,3,87.73
+61991,Miami,USA,3,76.19
+598486,Miami,USA,3,69.9
+1351143,New York,USA,4,80.89
+3088504,Stockholm,Sweden,3,81.49
+41299,unknown,unknown,4,81.22
+96554,Miami,USA,5,91.24
+1717829,Rio de Janeiro,Brazil,3,79.62
+1834455,New York,USA,0,85.46
+6919340,Miami,USA,0,\N
+3896524,unknown,unknown,0,\N
+1104798,New York,USA,4,92.76
+2705840,New York,USA,4,89.4
+3927654,Rio de Janeiro,Brazil,0,\N
+7260038,unknown,unknown,4,88.35
+7931,unknown,unknown,3,82.0
+8846,New York,USA,3,75.24
+104722,Rio de Janeiro,Brazil,5,84.51
+2110324,Hanoi,Vietnam,3,84.94
+4705270,Los Angeles,USA,2,81.18
+7930,Los Angeles,USA,2,78.65
+359291,unknown,unknown,3,70.36
+927115,Miami,USA,5,86.38
+1142718,Hanoi,Vietnam,2,80.29
+2518860,New York,USA,0,\N
+2552384,New York,USA,3,86.01
+3866982,Los Angeles,USA,2,73.42
+4775090,unknown,unknown,3,86.63
+102127,New York,USA,4,74.62
+102146,New York,USA,3,86.13
+5722428,Rio de Janeiro,Brazil,4,83.92
+67199,Miami,USA,3,67.92
+8831,New York,USA,4,95.11
+358066,unknown,unknown,3,74.87
+899055,New York,USA,0,89.38
+1488421,Stockholm,Sweden,3,77.6
+2144044,New York,USA,4,77.97
+1018443,Los Angeles,USA,4,88.78
+3184525,New York,USA,0,67.64
+2457106,Los Angeles,USA,2,\N
+2144560,Rio de Janeiro,Brazil,5,90.27
+56044,New York,USA,4,90.89
+58185,Los Angeles,USA,2,57.39
+67080,Los Angeles,USA,4,75.75
+1797509,Rio de Janeiro,Brazil,3,76.43
+2266272,New York,USA,3,76.91
+69588,New York,USA,3,86.02
+2665770,unknown,unknown,4,81.02
+8690,New York,USA,2,65.99
+104859,unknown,unknown,4,59.92
+3182793,New York,USA,0,89.44
+56003,New York,USA,4,83.55
+1941817,Stockholm,Sweden,4,84.7
+41114,Stockholm,Sweden,3,76.08
+1258248,New York,USA,2,78.92
+11276168,Miami,USA,4,79.76
+67097,unknown,unknown,2,70.61
+476056,Hanoi,Vietnam,4,70.82
+1977705,Hanoi,Vietnam,3,81.13
+3485410,New York,USA,0,92.06
+8215,Miami,USA,3,87.71
+944737,New York,USA,3,75.34
+56321,Los Angeles,USA,4,79.94
+326731,Rio de Janeiro,Brazil,5,89.68
+4769618,New York,USA,0,90.83
+6002906,Stockholm,Sweden,4,88.84
+8852,unknown,unknown,3,77.72
+41297,Stockholm,Sweden,4,85.57
+128411,Hanoi,Vietnam,3,73.13
+899057,New York,USA,4,90.71
+1038134,Rio de Janeiro,Brazil,5,78.79
+2396630,New York,USA,3,83.75
+3132652,New York,USA,4,91.43
+3477940,unknown,unknown,4,81.61
+8685,unknown,unknown,4,85.51
+8742,New York,USA,2,82.97
+2244172,Rio de Janeiro,Brazil,0,85.44
+1321682,New York,USA,4,88.28
+2671862,Rio de Janeiro,Brazil,0,79.23
+4481620,Los Angeles,USA,0,\N
+9328140,Stockholm,Sweden,4,86.83
+3226608,Hanoi,Vietnam,5,90.73
+3478206,unknown,unknown,4,78.8
+5074016,New York,USA,0,88.58
+5177378,Hanoi,Vietnam,3,88.41
+5968390,New York,USA,0,89.01
+2396632,New York,USA,3,68.15
+2606700,New York,USA,4,87.22
+5953196,New York,USA,0,\N
+59492,Miami,USA,3,82.49
+2730726,New York,USA,3,77.17
+3231835,Rio de Janeiro,Brazil,4,85.92
+3753854,unknown,unknown,0,76.42
+3929682,Rio de Janeiro,Brazil,2,\N
+5406742,New York,USA,0,\N
+911743,New York,USA,3,78.21
+917419,Rio de Janeiro,Brazil,4,79.89
+1994921,Los Angeles,USA,1,\N
+2575784,Rio de Janeiro,Brazil,0,77.71
+3246632,unknown,unknown,4,92.15
+57290,Miami,USA,3,79.53
+925041,Miami,USA,0,62.93
+2097216,Stockholm,Sweden,3,68.9
+58699,Miami,USA,3,77.1
+104554,Rio de Janeiro,Brazil,4,87.02
+2894836,Miami,USA,0,83.0
+5050108,Hanoi,Vietnam,0,87.45
+388181,Los Angeles,USA,2,71.32
+2105718,Hanoi,Vietnam,3,86.25
+1448289,New York,USA,0,76.57
+7970,Los Angeles,USA,2,72.57
+952483,Miami,USA,2,44.88
+1771527,Miami,USA,3,77.1
+1952395,Hanoi,Vietnam,3,66.02
+1000641,Stockholm,Sweden,0,\N
+1322258,Stockholm,Sweden,2,68.24
+1333004,New York,USA,3,88.94
+2272904,Hanoi,Vietnam,5,92.76
+7969,Los Angeles,USA,2,65.56
+67445,New York,USA,4,77.14
+1721129,New York,USA,3,88.58
+3150528,New York,USA,3,76.4
+3500924,New York,USA,0,76.68
+391481,unknown,unknown,3,77.4
+2644526,Hanoi,Vietnam,3,94.89
+100942,Stockholm,Sweden,4,76.37
+1310689,Hanoi,Vietnam,3,85.7
+1475717,Rio de Janeiro,Brazil,4,80.39
+1646483,New York,USA,4,90.09
+1668389,Rio de Janeiro,Brazil,3,82.58
+6869832,New York,USA,0,88.33
+109332,Rio de Janeiro,Brazil,3,72.65
+102120,unknown,unknown,3,82.38
+1843141,Stockholm,Sweden,3,78.48
+1960431,Hanoi,Vietnam,2,73.42
+7943,Los Angeles,USA,3,73.73
+8815,unknown,unknown,3,78.87
+941405,Hanoi,Vietnam,3,93.94
+2325976,Los Angeles,USA,2,84.21
+105522,Hanoi,Vietnam,5,82.29
+1156283,Rio de Janeiro,Brazil,3,\N
+1253348,Rio de Janeiro,Brazil,0,79.79
+4125544,Los Angeles,USA,0,\N
+5703598,Stockholm,Sweden,3,84.93
+8209,unknown,unknown,3,77.66
+416966,New York,USA,3,82.01
+4174506,New York,USA,4,80.42
+67202,Miami,USA,4,78.45
+4031546,Rio de Janeiro,Brazil,3,60.28
+2736562,Miami,USA,3,82.7
+3152026,Los Angeles,USA,3,89.1
+8627,New York,USA,3,87.78
+8793,New York,USA,4,86.19
+1347380,unknown,unknown,4,87.85
+1491445,New York,USA,5,93.31
+5484252,New York,USA,0,\N
+8636,New York,USA,3,78.54
+68528,New York,USA,3,74.68
+485851,Stockholm,Sweden,3,61.8
+5190346,Los Angeles,USA,0,85.52
+104882,Rio de Janeiro,Brazil,3,76.84
+8826962,Miami,USA,0,\N
+8777,New York,USA,3,81.85
+1115734,unknown,unknown,3,65.21
+2004649,Rio de Janeiro,Brazil,3,82.82
+8703,New York,USA,4,94.72
+2771944,Los Angeles,USA,2,79.1
+3769458,Los Angeles,USA,0,78.73
+8697,New York,USA,3,74.41
+3485988,New York,USA,3,85.91
+5740756,Los Angeles,USA,0,\N
+1322205,Hanoi,Vietnam,4,75.11
+1334408,New York,USA,5,89.79
+4028424,Los Angeles,USA,1,\N
+8800,New York,USA,4,74.56
+5144846,Miami,USA,0,88.77
+2837700,Rio de Janeiro,Brazil,3,66.57
+3059776,Los Angeles,USA,1,61.5
+41217,Stockholm,Sweden,4,81.41
+41351,Stockholm,Sweden,4,81.91
+3480558,New York,USA,4,82.97
+4025854,Rio de Janeiro,Brazil,0,\N
+5105492,New York,USA,3,83.11
+5518174,Hanoi,Vietnam,2,\N
+1213832,Miami,USA,3,87.81
+1326344,Hanoi,Vietnam,4,84.82
+3145742,New York,USA,3,83.56
+4892270,Miami,USA,0,73.8
+10502022,New York,USA,0,66.83
+2874650,Miami,USA,3,66.14
+83438,Stockholm,Sweden,4,83.91
+3132574,New York,USA,2,90.05
+64687,Miami,USA,3,85.03
+2298986,New York,USA,5,89.88
+3548596,Hanoi,Vietnam,0,84.84
+8766,New York,USA,5,93.94
+918537,New York,USA,3,80.13
+2214372,unknown,unknown,2,74.55
+2825656,New York,USA,3,85.08
+8121200,unknown,unknown,0,\N
+9796,New York,USA,4,88.46
+41264,Stockholm,Sweden,4,78.99
+5486414,Miami,USA,0,90.16
+8676,New York,USA,5,90.78
+1711421,Stockholm,Sweden,4,89.58
+3904512,Rio de Janeiro,Brazil,4,76.69
+41328,Stockholm,Sweden,4,80.7
+2284048,Rio de Janeiro,Brazil,4,83.66
+2523596,New York,USA,2,80.92
+4909160,Stockholm,Sweden,4,84.21
+9435222,Hanoi,Vietnam,4,83.08
+10756876,unknown,unknown,0,\N
+8707,unknown,unknown,4,81.28
+8753,unknown,unknown,4,80.77
+68636,unknown,unknown,4,82.59
+754221,unknown,unknown,0,70.95
+8751,New York,USA,3,79.58
+94881,Los Angeles,USA,0,73.19
+1269570,Hanoi,Vietnam,3,79.3
+41143,Stockholm,Sweden,4,81.66
+893875,Miami,USA,3,81.32
+962695,Rio de Janeiro,Brazil,0,74.99
+1826033,Stockholm,Sweden,3,81.55
+2281194,New York,USA,3,82.84
+104868,Rio de Janeiro,Brazil,4,80.46
+3152002,New York,USA,2,82.54
+3853980,Los Angeles,USA,4,82.39
+102148,New York,USA,3,85.32
+2924213,Rio de Janeiro,Brazil,3,87.29
+4381886,Hanoi,Vietnam,0,87.39
+4786910,New York,USA,4,80.91
+5624538,New York,USA,0,75.17
+1018465,Los Angeles,USA,0,83.61
+1646475,Hanoi,Vietnam,5,82.73
+2098806,New York,USA,3,82.5
+3516676,Los Angeles,USA,1,67.6
+3585080,Los Angeles,USA,4,82.19
+7031224,unknown,unknown,0,76.39
+925259,Rio de Janeiro,Brazil,3,78.5
+7713584,New York,USA,3,77.41
+7947,Los Angeles,USA,4,86.22
+101323,Hanoi,Vietnam,5,85.85
+982459,Rio de Janeiro,Brazil,3,63.05
+1167536,Hanoi,Vietnam,3,95.75
+1329920,New York,USA,3,85.41
+4700908,Los Angeles,USA,0,75.73
+56340,Los Angeles,USA,3,71.25
+104877,Rio de Janeiro,Brazil,4,75.83
+665626,Miami,USA,3,82.21
+1364388,unknown,unknown,4,91.35
+8762,New York,USA,2,65.55
+754971,New York,USA,4,88.54
+1227142,Miami,USA,4,83.92
+2289732,New York,USA,0,81.55
+3203640,Rio de Janeiro,Brazil,0,\N
+8202,Miami,USA,2,68.16
+1329092,Rio de Janeiro,Brazil,3,84.46
+2380676,Los Angeles,USA,2,74.08
+149584,New York,USA,3,68.28
+1743531,Rio de Janeiro,Brazil,0,\N
+3049282,Rio de Janeiro,Brazil,3,88.0
+7945,Los Angeles,USA,4,80.86
+102107,New York,USA,3,74.34
+1106484,New York,USA,4,92.86
+1319947,Rio de Janeiro,Brazil,3,74.95
+11220102,Rio de Janeiro,Brazil,0,86.29
+8190,Miami,USA,3,85.2
+1142243,Rio de Janeiro,Brazil,0,79.93
+3165882,unknown,unknown,3,78.51
+3864078,Los Angeles,USA,5,87.4
+41223,Stockholm,Sweden,4,82.29
+1083672,New York,USA,3,81.77
+1221836,New York,USA,4,86.62
+1770325,Rio de Janeiro,Brazil,3,66.17
+4488566,Los Angeles,USA,0,\N
+7971724,Hanoi,Vietnam,3,89.4
+149151,unknown,unknown,2,72.55
+361151,Hanoi,Vietnam,2,84.13
+1353948,Stockholm,Sweden,4,83.65
+2628216,Stockholm,Sweden,4,85.96
+7922,Los Angeles,USA,3,77.29
+8851,New York,USA,3,76.04
+104900,Rio de Janeiro,Brazil,3,82.39
+925941,Rio de Janeiro,Brazil,0,77.04
+1471997,Rio de Janeiro,Brazil,1,65.18
+2728402,New York,USA,4,86.23
+201641,Stockholm,Sweden,0,87.08
+1822925,Hanoi,Vietnam,3,82.42
+2221316,unknown,unknown,0,70.21
+2839630,Stockholm,Sweden,4,74.08
+5075146,New York,USA,0,72.55
+8653,New York,USA,3,75.38
+3952932,Los Angeles,USA,4,\N
+1275332,Stockholm,Sweden,0,89.87
+2561154,Rio de Janeiro,Brazil,2,76.22
+2891353,New York,USA,4,88.98
+3191706,Los Angeles,USA,1,62.13
+7966,Los Angeles,USA,5,94.38
+8743,New York,USA,3,81.84
+9774228,New York,USA,5,91.85
+1515513,New York,USA,3,81.29
+100944,Stockholm,Sweden,4,85.35
+5817210,New York,USA,3,76.87
+371271,New York,USA,2,73.03
+2729158,Rio de Janeiro,Brazil,0,\N
+5203570,New York,USA,4,83.84
+153551,Rio de Janeiro,Brazil,4,75.57
+6322806,New York,USA,0,\N
+8198,Miami,USA,4,87.08
+881977,New York,USA,2,80.72
+1273171,Hanoi,Vietnam,4,81.88
+1223442,Los Angeles,USA,2,66.86
+3990622,Rio de Janeiro,Brazil,0,72.43
+8817,New York,USA,4,84.44
+111318,Los Angeles,USA,2,69.5
+971509,unknown,unknown,1,37.99
+1212686,Hanoi,Vietnam,2,82.99
+2140736,Los Angeles,USA,2,73.56
+4657626,Miami,USA,4,81.5
+8692,unknown,unknown,4,89.8
+41285,Stockholm,Sweden,0,86.07
+5970482,Stockholm,Sweden,5,93.21
+8825,New York,USA,5,87.13
+1488277,Miami,USA,2,57.84
+4342016,Rio de Janeiro,Brazil,5,91.05
+13044172,Rio de Janeiro,Brazil,0,84.09
+150730,Stockholm,Sweden,0,86.63
+1985545,Hanoi,Vietnam,3,86.18
+3953600,Miami,USA,4,86.83
+8783,New York,USA,4,88.16
+915641,New York,USA,4,82.19
+1711809,New York,USA,3,66.02
+111534,Rio de Janeiro,Brazil,4,68.29
+162439,New York,USA,2,71.8
+1273981,Hanoi,Vietnam,3,85.08
+2331016,Miami,USA,2,52.87
+3881244,Rio de Janeiro,Brazil,0,77.39
+960255,Rio de Janeiro,Brazil,2,79.65
+986971,New York,USA,4,84.44
+3152024,Los Angeles,USA,3,86.08
+8702,New York,USA,3,89.21
+3799322,Rio de Janeiro,Brazil,0,\N
+8688,New York,USA,3,70.46
+4415314,Rio de Janeiro,Brazil,5,90.8
+8687,unknown,unknown,3,88.64
+56395,Los Angeles,USA,4,86.6
+1050662,New York,USA,3,80.5
+2902434,Los Angeles,USA,0,58.18
+3044710,Rio de Janeiro,Brazil,3,81.91
+2005245,Rio de Janeiro,Brazil,2,57.39
+2336656,Hanoi,Vietnam,3,93.55
+149599,New York,USA,2,76.66
+63302,New York,USA,2,73.02
+351156,Stockholm,Sweden,3,69.96
+917295,Hanoi,Vietnam,3,78.64
+1029088,Stockholm,Sweden,0,80.03
+8747,New York,USA,4,89.5
+8772,New York,USA,4,70.95
+41219,unknown,unknown,4,83.88
+364701,Los Angeles,USA,1,61.48
+3176772,Miami,USA,3,84.29
+3475844,Los Angeles,USA,5,69.81
+1336377,New York,USA,4,87.27
+3226804,Miami,USA,3,88.0
+4487250,Los Angeles,USA,0,84.47
+100939,unknown,unknown,4,84.25
+971225,Hanoi,Vietnam,5,86.66
+1768863,Rio de Janeiro,Brazil,5,87.34
+3482094,Miami,USA,0,87.48
+8642,New York,USA,4,81.64
+4509656,Rio de Janeiro,Brazil,0,\N
+130489,New York,USA,4,88.4
+1499211,Hanoi,Vietnam,3,83.95
+2724977,New York,USA,3,89.03
+3185706,unknown,unknown,0,\N
+3192937,Los Angeles,USA,0,\N
+41424,Stockholm,Sweden,3,73.6
+4132378,Rio de Janeiro,Brazil,2,80.0
+8206,Miami,USA,3,82.88
+41364,Stockholm,Sweden,3,76.98
+823791,Stockholm,Sweden,4,86.62
+4776874,Stockholm,Sweden,0,71.11
+8172082,New York,USA,0,87.28
+11189204,New York,USA,4,81.29
+6540894,New York,USA,3,83.59
+11362668,New York,USA,4,\N
+12990876,New York,USA,0,82.54
+10583634,New York,USA,4,92.28
+13537168,New York,USA,0,81.81
+7226856,Miami,USA,0,\N
+9728880,Rio de Janeiro,Brazil,5,86.49
+10271860,Hanoi,Vietnam,4,\N
